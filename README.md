@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9af58ab3-d564-4fd6-8ba2-f880af470da7)- 👋 Hi, I’m Yogita Jondhale
+- 👋 Hi, I’m Yogita Jondhale
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning DevOps
 - 🔧 Skills & Interests
