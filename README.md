@@ -5,7 +5,7 @@
           💻 Java & MySQL
           🛡️ Cybersecurity
           🚀 DevOps
-          🌐 Digital Marketing
+          🌐 Digital Marketing.
 🌟 Goals-
           🌟 Master DevOps tools and workflows.
           🌐 Contribute to impactful open-source projects.
