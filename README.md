@@ -4,9 +4,11 @@
 - 🔧 Skills & Interests
           💻 Java & MySQL
           🛡️ Cybersecurity
+          🛡️ AWS
           🚀 DevOps
           🌐 Digital Marketing.
 🌟 Goals-
+          🌐 Mastering AWS
           🌟 Master DevOps tools and workflows.
           🌐 Contribute to impactful open-source projects.
           💼 Secure an internship to apply and grow my expertise.
