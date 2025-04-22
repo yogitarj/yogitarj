@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogita Jondhale
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning AWS-DevOps
 - 🔧 Skills & Interests
           💻 Java & MySQL
           🛡️ Cybersecurity
